@@ -72,7 +72,12 @@ Excel sheet connection to Analysis Model: https://github.com/vinaykm5758/On_Prem
 ![image](https://github.com/vinaykm5758/On_Prem_SQL_Server_Azure_Analysis_Model/assets/45409524/dec7a21a-9477-46eb-a7ad-ca39b7d7543f)
 
 
-Sample PowerBI Report: https://github.com/vinaykm5758/On_Prem_SQL_Server_Azure_Analysis_Model/blob/main/Sales_Analysis_Report.pbix
+**Step:6:** Sample PowerBI Report: 
+https://github.com/vinaykm5758/On_Prem_SQL_Server_Azure_Analysis_Model/blob/main/Sales_Analysis_Report.pbix
+
+![image](https://github.com/user-attachments/assets/ea01958a-31d8-4fac-aa47-17a3043b4106)
+
+
 
 
 
